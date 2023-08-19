@@ -1,17 +1,17 @@
 # AUT Data & Information Analysis Project
 
-This repository contains the files of my project for the Data & Information
-Analysis course at AUT (Tehran Polytechnic).
+This repository contains my project for the Data & Information Analysis course
+at AUT (Tehran Polytechnic).
 
 ## Part 1
 
-In this section, min-max features scaling and feature standardization were
+In this section, "min-max feature scaling" and "feature standardization" were
 implemented.
 
 ## Part 2
 
 In this section, an outlier detector was implemented that used z-score to find
-the outliers.
+outliers.
 
 ## Part 3
 
