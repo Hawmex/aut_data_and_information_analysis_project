@@ -17,4 +17,4 @@ method to find outliers.
 
 In this section, the k-means clustering algorithm was implemented using
 functional programming patterns. The function returns the within-cluster sum of
-squares and the labels of the clustered data.
+squares and the labels for the clustered data.
