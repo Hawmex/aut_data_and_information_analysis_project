@@ -10,11 +10,11 @@ implemented.
 
 ## Part 2
 
-In this section, an outlier detector was implemented that used z-score to find
-outliers.
+In this section, an outlier detector was implemented that used the z-score
+method to find outliers.
 
 ## Part 3
 
-In this section, the k-means algorithm was implemented using functional
-programming patterns. The function returns the within-cluster sum of squares and
-the labels of the clustered data.
+In this section, the k-means clustering algorithm was implemented using
+functional programming patterns. The function returns the within-cluster sum of
+squares and the labels of the clustered data.
