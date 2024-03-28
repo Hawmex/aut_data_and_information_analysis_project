@@ -1,7 +1,7 @@
 # AUT Data & Information Analysis Project
 
-This repository contains my project for the Data & Information Analysis course
-at AUT (Tehran Polytechnic).
+This repository contains the files of my project for the "Data & Information
+Analysis" course at Amirkabir University of Technology (Tehran Polytechnic).
 
 ## Part 1
 
